@@ -1,0 +1,13 @@
+ reconciliation in action
+https://jsfiddle.net/uf3sr8L7/
+
+React updates the virtual DOM and compares it to the previous version of the virtual DOM.
+If a change has occurred, only that element is updated in the browser DOM.
+Changes on the browser DOM cause the displayed webpage to change.
+
+Bootstrap infix vs modifier
+
+two main approaches for serving code and resources in a Single Page Application
+    bundling
+    code splitting
+
